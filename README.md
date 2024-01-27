@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=imilindmishra&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently exploring Backend Tech.<br>👯 Ask me about MERN stack.<br>🤝 I’m looking for help with development.<br>💬 How to reach me: milindmishra11@gmail.com<br>⚡ Fun fact I think I am good at history and Geopolitics.
 
@@ -13,6 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imilindmishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imilindmishra&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
