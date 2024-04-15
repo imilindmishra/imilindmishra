@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=imilindmishra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently exploring Backend Tech.<br>👯 Ask me about MERN stack.<br>🤝 I’m looking for help with development.<br>💬 How to reach me: milindmishra11@gmail.com<br>⚡ Fun fact I think I am good at history and Geopolitics.
+🔭 I’m currently learning Next.js.<br>👯 Ask me about MERN stack.<br>🤝 I’m looking for help with development.<br>💬 How to reach me: milindmishra11@gmail.com<br>⚡ Fun fact I think I am good at history and Geopolitics.
 
 
 ## 🌐 Socials:
